@@ -81,7 +81,7 @@ src/
 
 ## Licença
 
-Este projeto é de uso exclusivo do autor. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é opensource, só o backend que é privado por motivos de segurança, ja que a aplicação ficará no ar para meu portifolio. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
