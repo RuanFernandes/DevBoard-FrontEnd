@@ -42,7 +42,7 @@ src/
 
 1. **Instale as dependências:**
    ```sh
-   npm install
+   yarn
    ```
 
 2. **Configure as variáveis de ambiente (se necessário):**
@@ -50,7 +50,7 @@ src/
 
 3. **Inicie o servidor de desenvolvimento:**
    ```sh
-   npm run dev
+   yarn run dev
    ```
 
 4. **Acesse em:**  
@@ -66,10 +66,10 @@ src/
 
 ## Scripts Disponíveis
 
-- `npm run dev` – Inicia o ambiente de desenvolvimento.
-- `npm run build` – Gera a build de produção.
-- `npm run preview` – Visualiza a build de produção localmente.
-- `npm run lint` – Executa o ESLint.
+- `yarn run dev` – Inicia o ambiente de desenvolvimento.
+- `yarn run build` – Gera a build de produção.
+- `yarn run preview` – Visualiza a build de produção localmente.
+- `yarn run lint` – Executa o ESLint.
 
 ## Convenções e Boas Práticas
 
